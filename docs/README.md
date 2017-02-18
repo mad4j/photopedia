@@ -1,5 +1,3 @@
-# photopedia
-are you able to guess the photographer behind each photo?
 
 [![Vivian Maier](thumbs/vivian-maier-01-thumb.jpg)](maier.html)
 [![Franco Fontana](thumbs/franco-fontana-01-thumb.jpg)](fontana.html)
