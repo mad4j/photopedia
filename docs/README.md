@@ -7,4 +7,5 @@
 [![Sebastiao Salgado](thumbs/sebastiao-salgado-01-thumb.jpg)](salgado.html)
 
 
-{% for p in site.photographers %}[![{{ p.name }}](thumbs/{{p.thumb}})]({% link p.page %}){% endfor %}
+{% for p in site.photographers %}
+[![{{ p.name }}](thumbs/{{p.thumb}})]({% link p.page %}){% endfor %}
