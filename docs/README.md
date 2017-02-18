@@ -8,5 +8,5 @@
 
 
 {% for p in site.photographers %}
-    [![{{ p.name }}]({{p.thumb}})]({% link maier.md %})
+    [![{{ p.name }}](/thumbs/{{p.thumb}})]({% link maier.md %})
 {% endfor %}
