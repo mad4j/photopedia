@@ -8,5 +8,5 @@
 
 
 {% for p in site.photographers %}
-[![{{ p.name }}](thumbs/{{ p.thumb }})]({% link {{ p.page}}  %})
+[![{{ p.name }}](thumbs/{{ p.thumb }})]({% link test %})
 {% endfor %}
