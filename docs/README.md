@@ -5,3 +5,8 @@
 [![Oliviero Toscani](thumbs/oliviero-toscani-02-thumb.jpg)](toscani.html)
 [![Henri Cartier-Bresson](thumbs/henri-cartier-bresson-02-thumb.jpg)](cartier-bresson.html)
 [![Sebastiao Salgado](thumbs/sebastiao-salgado-01-thumb.jpg)](salgado.html)
+
+
+{% for p in site.photographers %}
+    [![{{ p.name }}]({{op.thumb}})]({% link maier.md %})
+{% endfor %}
