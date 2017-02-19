@@ -4,4 +4,6 @@ thumb: vivian-maier-01-thumb.jpg
 page: maier.md
 ---
 
-Testo
+# Vivian Maier
+
+![01](photos/vivian-maier-01.jpg)
