@@ -1,5 +1,5 @@
 
-[![Vivian Maier](thumbs/vivian-maier-01-thumb.jpg)]({% link _photographers/maier.md %})
+[![Vivian Maier](thumbs/vivian-maier-01-thumb.jpg)](maier.html)
 [![Franco Fontana](thumbs/franco-fontana-01-thumb.jpg)]({% link fontana.md %})
 [![Nobuyoshi Araki](thumbs/nobuyoshi-araki-01-thumb.jpg)]({% link araki.md %})
 [![Oliviero Toscani](thumbs/oliviero-toscani-02-thumb.jpg)]({% link toscani.md %})
