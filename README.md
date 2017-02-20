@@ -20,4 +20,8 @@ Install needed stuff:
 `$ sudo gem install jekyll bundler`
 
 
+## Create a new Jekyll site
 
+Setup local site:
+
+``
