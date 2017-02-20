@@ -11,6 +11,10 @@ Get your system updated:
 
 `$ sudo apt-get update`
 
+Install Ruby and need developement environment:
+
+`$ sudo apt-get install ruby ruby-dev make gcc`
+
 Install needed stuff:
 
 `$ sudo gem install jekyll bundler`
