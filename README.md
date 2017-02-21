@@ -26,6 +26,12 @@ Setup local site:
 
 `$ jekyll new <folder-name>`
 
-Edit GemFile:
+Add these lines to GemFile:
 
+```
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+```
+Install needed stuff:
 
+`$ bundle intall`
