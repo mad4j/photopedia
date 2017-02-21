@@ -24,4 +24,8 @@ Install needed stuff:
 
 Setup local site:
 
-``
+`$ jekyll new <folder-name>`
+
+Edit GemFile:
+
+
