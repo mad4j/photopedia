@@ -1,5 +1,5 @@
 
-[![Vivian Maier](thumbs/vivian-maier-01-thumb.jpg)](maier.html)
+[![Vivian Maier](thumbs/vivian-maier-01-thumb.jpg)]({% link maier.md %})
 [![Franco Fontana](thumbs/franco-fontana-01-thumb.jpg)](fontana.html)
 [![Nobuyoshi Araki](thumbs/nobuyoshi-araki-01-thumb.jpg)](araki.html)
 [![Oliviero Toscani](thumbs/oliviero-toscani-02-thumb.jpg)](toscani.html)
@@ -7,5 +7,5 @@
 [![Sebastiao Salgado](thumbs/sebastiao-salgado-01-thumb.jpg)](salgado.html)
 
 {% for p in site.photographers %}
-<p>test</p>
+<p>{{ p.name }}</p>
 {% endfor %}
