@@ -1,5 +1,5 @@
 
-[![Vivian Maier](thumbs/vivian-maier-01-thumb.jpg)]({% link maier.md %})
+[![Vivian Maier](thumbs/vivian-maier-01-thumb.jpg)]({{ site.baseurl }}{% link maier.md %})
 [![Franco Fontana](thumbs/franco-fontana-01-thumb.jpg)](fontana.html)
 [![Nobuyoshi Araki](thumbs/nobuyoshi-araki-01-thumb.jpg)](araki.html)
 [![Oliviero Toscani](thumbs/oliviero-toscani-02-thumb.jpg)](toscani.html)
@@ -8,7 +8,7 @@
 
 
 <p>
-{{ site.baseurl }}
+OK {{ site.baseurl }}
 </p>
 
 
