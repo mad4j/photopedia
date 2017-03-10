@@ -7,5 +7,5 @@
 [![Sebastiao Salgado](thumbs/sebastiao-salgado-01-thumb.jpg)](salgado.html)
 
 {% for p in site.photographers %}
-<p>{{ p.name }}</p>
+<p> >>> {{ p.name }}</p>
 {% endfor %}
