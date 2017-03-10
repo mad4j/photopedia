@@ -13,5 +13,5 @@ OK {{ site.baseurl }}
 
 
 {% for p in site.photographers %}
-<p> >>> {{ p.name }}</p>
+[!{{ p.name }}](thumbs/{{ p.thumb }})]({{ site.baserul }}{% link _photographers/p %})
 {% endfor %}
