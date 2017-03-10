@@ -6,6 +6,12 @@
 [![Henri Cartier-Bresson](thumbs/henri-cartier-bresson-02-thumb.jpg)](cartier-bresson.html)
 [![Sebastiao Salgado](thumbs/sebastiao-salgado-01-thumb.jpg)](salgado.html)
 
+
+<p>
+{{ site.baseurl }}
+</p>
+
+
 {% for p in site.photographers %}
 <p> >>> {{ p.name }}</p>
 {% endfor %}
