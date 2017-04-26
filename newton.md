@@ -1,4 +1,8 @@
 
+___
+title: Helmut Newton
+___
+
 # Helmut Newton
 
 ![01](photos/helmut-newton-02.jpg)
@@ -6,8 +10,8 @@
 
 ## Interesting shots
 
-![01](photos/helmut-newton-01.jpg){:width="120"}
-![03](photos/helmut-newton-03.jpg){:width="120"}
+![01](photos/helmut-newton-01.jpg){:height="120"}
+![03](photos/helmut-newton-03.jpg){:height="120"}
 
 
 ## References
