@@ -1,4 +1,3 @@
-
 ___
 title: Helmut Newton
 ___
