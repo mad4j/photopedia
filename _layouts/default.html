@@ -15,7 +15,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
 
     <title>
-        {% if pqge.title %}
+        {% if page.title %}
             {{ page.title }}
         {% else %}
             {{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}
