@@ -3,7 +3,14 @@
 
 ![01](photos/helmut-newton-02.jpg)
 
+
+## Interesting shots
+
+![01](photos/helmut-newton-01.jpg){:width="120"}
+![03](photos/helmut-newton-03.jpg){:width="120"}
+
+
 ## References
 
-* [Officila site](http://www.helmutnewton.com)
+* [Official site](http://www.helmutnewton.com)
 * [Wikipedia](https://en.wikipedia.org/wiki/Helmut_Newton)
