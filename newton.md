@@ -1,6 +1,6 @@
-___
+---
 title: Helmut Newton
-___
+---
 
 # Helmut Newton
 
