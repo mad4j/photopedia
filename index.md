@@ -1,17 +1,8 @@
 
 [![Vivian Maier](thumbs/vivian-maier-01-thumb.jpg)]({{ site.baseurl }}{% link maier.md %})
-[![Franco Fontana](thumbs/franco-fontana-01-thumb.jpg)]({{ site.baseurl }}{% link _photographers/xxx_fraco-fontana.md %})
-[![Nobuyoshi Araki](thumbs/nobuyoshi-araki-01-thumb.jpg)](araki.html)
-[![Oliviero Toscani](thumbs/oliviero-toscani-02-thumb.jpg)](toscani.html)
-[![Henri Cartier-Bresson](thumbs/henri-cartier-bresson-02-thumb.jpg)](cartier-bresson.html)
-[![Sebastiao Salgado](thumbs/sebastiao-salgado-01-thumb.jpg)](salgado.html)
-
-
-<p>
-OK {{ site.baseurl }}
-</p>
-
-
-{% for p in site.photographers %}
-[!{{ p.name }}](thumbs/{{ p.thumb }})]({{ site.baserul }}{% link _photographers/p %})
-{% endfor %}
+[![Franco Fontana](thumbs/franco-fontana-01-thumb.jpg)]({{ site.baseurl }}{% link fontana.md %})
+[![Nobuyoshi Araki](thumbs/nobuyoshi-araki-01-thumb.jpg)]({{ site.baseurl }}{% link araki.md %})
+[![Oliviero Toscani](thumbs/oliviero-toscani-02-thumb.jpg)]({{ site.baseurl }}{% link toscani.md %})
+[![Henri Cartier-Bresson](thumbs/henri-cartier-bresson-02-thumb.jpg)]({{ site.baseurl }}{% link cartier-bresson.md %})
+[![Sebastiao Salgado](thumbs/sebastiao-salgado-01-thumb.jpg)]({{ site.baseurl }}{% link salgado.md %})
+[![Helmut Newton](thumbs/helmut-newton-02-thumb.jpg)]({{ site.baseurl }}{% link newton.md %})
