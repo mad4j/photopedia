@@ -14,7 +14,7 @@
 
     <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
 
-    <title>{{ title | site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <title>{{ page.title | site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
   </head>
 
   <body>
