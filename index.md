@@ -6,3 +6,4 @@
 [![Henri Cartier-Bresson](thumbs/henri-cartier-bresson-02-thumb.jpg)]({{ site.baseurl }}{% link cartier-bresson.md %})
 [![Sebastiao Salgado](thumbs/sebastiao-salgado-01-thumb.jpg)]({{ site.baseurl }}{% link salgado.md %})
 [![Helmut Newton](thumbs/helmut-newton-02-thumb.jpg)]({{ site.baseurl }}{% link newton.md %})
+[![Willy Ronis](thumbs/willy-ronis-01-thumb.jpg)]({{ site.baseurl }}{% link ronis.md %})
