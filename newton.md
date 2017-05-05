@@ -7,6 +7,7 @@
 
 ![01](photos/helmut-newton-01.jpg){:height="120"}
 ![03](photos/helmut-newton-03.jpg){:height="120"}
+![10](photos/helmut-newton-10.jpg){:height="120"}
 
 
 ## References
