@@ -7,6 +7,7 @@
 ## Interesting shots
 
 ![02](photos/nobuyoshi-araki-02.jpg){:height="120"}
+[![02](photos/nobuyoshi-araki-02.jpg)](photos/nobuyoshi-araki-02.jpg){:height="120"}
 
 ## References
 
