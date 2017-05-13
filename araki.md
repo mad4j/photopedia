@@ -11,3 +11,5 @@
 ## References
 
 * [Arakimmentari](https://vimeo.com/88453989)
+* [Wikipedia](https://en.wikipedia.org/wiki/Nobuyoshi_Araki)
+
