@@ -1,7 +1,7 @@
 
 # Franco Fontana
 
-[![01](photos/franco-fontana-01.jpg)](franco-fontana-01.jpg)
+[![01](photos/franco-fontana-01.jpg)](photos/franco-fontana-01.jpg)
 
 ## Interesting shots
 
