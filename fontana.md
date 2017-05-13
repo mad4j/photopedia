@@ -1,11 +1,11 @@
 
 # Franco Fontana
 
-![01](photos/franco-fontana-01.jpg)
+[![01](photos/franco-fontana-01.jpg)](franco-fontana-01.jpg)
 
 ## Interesting shots
 
-![02](photos/franco-fontana-02.jpg){:height="120"}
+[![02](photos/franco-fontana-02.jpg){:height="120"}](photos/franco-fontana-02.jpg)
 
 ## References
 
