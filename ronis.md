@@ -1,7 +1,7 @@
 
 # Willy Ronis
 
-![01](photos/willy-ronis-01.jpg)
+[![01](photos/willy-ronis-01.jpg)](photos/willy-ronis-01.jpg)
 
 ## Interesting shots
 
