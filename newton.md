@@ -1,14 +1,12 @@
 # Helmut Newton
 
-![01](photos/helmut-newton-02.jpg)
-
+[![02](photos/helmut-newton-02.jpg)](photos/helmut-newton-02.jpg)
 
 ## Interesting shots
 
-![01](photos/helmut-newton-01.jpg){:height="120"}
-![03](photos/helmut-newton-03.jpg){:height="120"}
-![10](photos/helmut-newton-10.jpg){:height="120"}
-
+[![01](photos/helmut-newton-01.jpg)){:height="120"}](photos/helmut-newton-01.jpg))
+[![03](photos/helmut-newton-03.jpg)){:height="120"}](photos/helmut-newton-03.jpg))
+[![10](photos/helmut-newton-10.jpg)){:height="120"}](photos/helmut-newton-10.jpg))
 
 ## References
 
