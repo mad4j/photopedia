@@ -9,4 +9,5 @@ TBD
 
 ## References
 
-TBD
+* [Official site](http://www.peterlindbergh.com/)
+* [Wikipedia](https://en.wikipedia.org/wiki/Peter_Lindbergh)
