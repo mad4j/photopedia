@@ -12,5 +12,5 @@
 
 
 {% for p in site.photographers %}
-<h2>{{ p.output }}</h2>
+<h2>{{ p.url }}</h2>
 {% endfor %}
