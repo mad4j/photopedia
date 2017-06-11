@@ -8,3 +8,4 @@
 [![Helmut Newton](thumbs/helmut-newton-02-thumb.jpg)]({{ site.baseurl }}{% link newton.md %})
 [![Willy Ronis](thumbs/willy-ronis-01-thumb.jpg)]({{ site.baseurl }}{% link ronis.md %})
 [![Peter Lindbergh](thumbs/peter-lindbergh-01-thumb.jpg)]({{ site.baseurl }}{% link lindbergh.md %})
+[![Garry Winogrand](thumbs/garry-winogrand-01-thumb.jpg)]({{ site.baseurl }}{% link winogrand.md %})
