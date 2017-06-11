@@ -1,7 +1,7 @@
 ---
 title:  Sebastiao Salgado
 layout: photographer_layout
-thumb:sebastiao-salgado-thumb.jpg
+thumb: sebastiao-salgado-thumb.jpg
 main: sebastiao-salgado-01.jpg
 shots:
 references:
