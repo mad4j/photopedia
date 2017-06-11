@@ -2,4 +2,9 @@ theme: jekyll-theme-architect
 collections:
   photographers:
     output: true
-    layout: photographer_layout.html
+defaults:
+  - scope:
+      path: ""
+      type: photographers
+    values:
+      layout: photographer_layout.html
