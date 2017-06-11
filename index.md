@@ -13,4 +13,5 @@
 
 {% for p in site.photographers %}
 <h2>{{ p.url }}</h2>
+[![{{ p.name }}](thumbs/{{ p.thump }})]({{ site.baseurl }}{% p.url %})
 {% endfor %}
