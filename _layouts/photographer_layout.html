@@ -5,10 +5,15 @@ layout: default
 <h1>{{ page.name }}</h1>
 <p>
   <a href="{{site.baseurl}}/photos/{{page.main}}">
-    <img src="{{site.baseurl}}/photos/{{page.main}}">
+    <img src="{{site.baseurl}}/photos/{{page.main}}" />
   </a>
-
+</p>
 
 <h2>Interesting shots</h2>
+{% for s in page.shots %}
+<a href="{{site.baseurl}}/photos/{{s}}">
+  <img src="{{site.baseurl}}/photos/{{s}}" width="120px" />
+</a>
+{% endfor %}
 
 <h2>References</h2>
