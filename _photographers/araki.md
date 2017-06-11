@@ -1,10 +1,10 @@
 ---
 title: Nobuyoshi Araki
 layout: photographer_layout
-thumb: nobuyoshi-araki-thumb.jpg
-main: nobuyoshi-araki-01.jpg
+thumb: araki-thumb.jpg
+main: araki-01.jpg
 shots:
-    - nobuyoshi-araki-02.jpg
+    - araki-02.jpg
 references:
     - name: Arakimmentari
       url: https://vimeo.com/88453989

@@ -1,8 +1,8 @@
 ---
 title: Peter Lindbergh
 layout: photographer_layout
-thumb: peter-lindbergh-thumb.jpg
-main: peter-lindbergh-01.jpg
+thumb: lindbergh-thumb.jpg
+main: lindbergh-01.jpg
 shots:
 references:
     - name: Official site
