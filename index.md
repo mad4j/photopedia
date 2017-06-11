@@ -9,3 +9,8 @@
 [![Willy Ronis](thumbs/willy-ronis-01-thumb.jpg)]({{ site.baseurl }}{% link ronis.md %})
 [![Peter Lindbergh](thumbs/peter-lindbergh-01-thumb.jpg)]({{ site.baseurl }}{% link lindbergh.md %})
 [![Garry Winogrand](thumbs/garry-winogrand-01-thumb.jpg)]({{ site.baseurl }}{% link winogrand.md %})
+
+
+{% for p in site.photographers %}
+<h2>{{ p.name }}</h2>
+{% endfor %}
