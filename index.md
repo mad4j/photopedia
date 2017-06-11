@@ -12,6 +12,5 @@
 
 
 {% for p in site.photographers %}
-[![{{ p.name }}](thumbs/test.jpg)]({{ site.baseurl }}{% link test.md %})
 <h2>{{ p.output }}</h2>
 {% endfor %}
