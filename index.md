@@ -1,6 +1,6 @@
 
-[![Vivian Maier](thumbs/vivian-maier-01-thumb.jpg)]({{ site.baseurl }}{% link maier.md %})
-[![Franco Fontana](thumbs/franco-fontana-01-thumb.jpg)]({{ site.baseurl }}{% link fontana.md %})
+[![Vivian Maier](thumbs/vivian-maier-thumb.jpg)]({{ site.baseurl }}{% link maier.md %})
+[![Franco Fontana](thumbs/franco-fontana-thumb.jpg)]({{ site.baseurl }}{% link fontana.md %})
 [![Nobuyoshi Araki](thumbs/nobuyoshi-araki-01-thumb.jpg)]({{ site.baseurl }}{% link araki.md %})
 [![Oliviero Toscani](thumbs/oliviero-toscani-02-thumb.jpg)]({{ site.baseurl }}{% link toscani.md %})
 [![Henri Cartier-Bresson](thumbs/henri-cartier-bresson-02-thumb.jpg)]({{ site.baseurl }}{% link cartier-bresson.md %})
@@ -12,6 +12,5 @@
 
 
 {% for p in site.photographers %}
-<h2>{{ p.url }}</h2>
 [![{{ p.name }}](thumbs/{{ p.thumb }})]({{ site.baseurl }}{{ p.url }})
 {% endfor %}
