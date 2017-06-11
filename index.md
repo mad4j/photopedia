@@ -1,5 +1,5 @@
 
-[![Vivian Maier](thumbs/vivian-maier-thumb.jpg)]({{ site.baseurl }}{% link maier.md %})
+
 [![Franco Fontana](thumbs/franco-fontana-thumb.jpg)]({{ site.baseurl }}{% link fontana.md %})
 [![Nobuyoshi Araki](thumbs/nobuyoshi-araki-01-thumb.jpg)]({{ site.baseurl }}{% link araki.md %})
 [![Oliviero Toscani](thumbs/oliviero-toscani-02-thumb.jpg)]({{ site.baseurl }}{% link toscani.md %})
@@ -11,4 +11,5 @@
 [![Garry Winogrand](thumbs/garry-winogrand-01-thumb.jpg)]({{ site.baseurl }}{% link winogrand.md %})
 
 
-{% for p in site.photographers %}[![{{ p.title }}](thumbs/{{ p.thumb }})]({{ site.baseurl }}{{ p.url }}){% endfor %}
+{% for p in site.photographers %}[![{{ p.title }}](thumbs/{{ p.thumb }})]({{ site.baseurl }}{{ p.url }})
+{% endfor %}
