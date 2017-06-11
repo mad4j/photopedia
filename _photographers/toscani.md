@@ -2,7 +2,7 @@
 title: Oliviero Toscani
 layout: photographer_layout
 thumb: toscani-thumb.jpg
-main: oliviero-toscani-02.jpg
+main: toscani-02.jpg
 shots:
     - toscani-01.jpg
     - toscani-03.jpg
