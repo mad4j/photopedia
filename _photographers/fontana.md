@@ -1,5 +1,5 @@
 ---
-name: Franco Fontana
+title: Franco Fontana
 layout: photographer_layout
 thumb: franco-fontana-thumb.jpg
 main: franco-fontana-01.jpg

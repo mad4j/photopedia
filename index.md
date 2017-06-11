@@ -12,5 +12,5 @@
 
 
 {% for p in site.photographers %}
-[![{{ p.name }}](thumbs/{{ p.thumb }})]({{ site.baseurl }}{{ p.url }})
+    [![{{ p.title }}](thumbs/{{ p.thumb }})]({{ site.baseurl }}{{ p.url }})
 {% endfor %}
