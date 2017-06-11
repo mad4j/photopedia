@@ -17,3 +17,8 @@ layout: default
 {% endfor %}
 
 <h2>References</h2>
+<ul>
+{% for r in page.references %}
+  <li>{{ r }}
+{% endfor %}
+</ul>
