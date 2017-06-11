@@ -19,6 +19,6 @@ layout: default
 <h2>References</h2>
 <ul>
 {% for r in page.references %}
-  <li>{{ r }}
+  <li><a href="{{ r.url }}">{{ r.name }}</a>
 {% endfor %}
 </ul>
