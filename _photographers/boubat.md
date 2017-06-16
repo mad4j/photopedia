@@ -10,5 +10,5 @@ shots:
     - boubat-05.jpg
 references:
     - name: Wikipedia
-      url: https://en.wikipedia.org/wiki/Henri_Cartier-Bresson
+      url: https://en.wikipedia.org/wiki/%C3%89douard_Boubat
 ---
