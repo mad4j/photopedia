@@ -8,8 +8,6 @@ shots:
     - ho-03.jpg
     - ho-04.jpg
     - ho-05.jpg
-    - ho-06.jpg
-    - ho-07.jpg
 references:
     - name: Official site
       url: http://www.fanhophotography.com/index.html
