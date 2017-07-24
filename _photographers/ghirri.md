@@ -13,3 +13,4 @@ references:
       url: http://www.archivioluigighirri.it/
     - name: Wikipedia
       url: https://en.wikipedia.org/wiki/Luigi_Ghirri
+---
