@@ -2,7 +2,7 @@
 title: Luigi Ghirri
 layout: photographer_layout
 thumb: ghirri-thumb.jpg
-main: ho-01.jpg
+main: ghirri-01.jpg
 shots:
     - ghirri-02.jpg
     - ghirri-03.jpg
