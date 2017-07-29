@@ -13,4 +13,4 @@ references:
       url: https://en.wikipedia.org/wiki/David_Hamilton_(photographer)
 ---
 
-David Hamilton (15 April 1933 – 25 November 2016) was a British photographer and film director best known for his nude images of young women and girls. (Wikipedia)[https://en.wikipedia.org/wiki/David_Hamilton_(photographer)]
+David Hamilton (15 April 1933 – 25 November 2016) was a British photographer and film director best known for his nude images of young women and girls. [Wikipedia](https://en.wikipedia.org/wiki/David_Hamilton_(photographer))
