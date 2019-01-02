@@ -4,7 +4,8 @@ layout: photographer_layout
 thumb: lindbergh-thumb.jpg
 main: lindbergh-01.jpg
 shots:
-  - lindbergh-02.jpg
+    - lindbergh-02.jpg
+    - lindbergh-03.jpg
 references:
     - name: Official site
       url: http://www.peterlindbergh.com/
