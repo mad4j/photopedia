@@ -6,6 +6,7 @@ main: lindbergh-01.jpg
 shots:
     - lindbergh-02.jpg
     - lindbergh-03.jpg
+    - lindbergh-04.jpg
 references:
     - name: Official site
       url: http://www.peterlindbergh.com/
