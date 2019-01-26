@@ -5,6 +5,7 @@ thumb: araki-thumb.jpg
 main: araki-01.jpg
 shots:
     - araki-02.jpg
+    - araki-03.jpg
 references:
     - name: Arakimentari
       url: https://vimeo.com/88453989
