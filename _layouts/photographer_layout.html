@@ -2,27 +2,34 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<p>
-  <a href="{{site.baseurl}}/photos/{{page.main}}">
-    <img src="{{site.baseurl}}/photos/{{page.main}}" />
-  </a>
-</p>
+<div class="photographer-page">
+  <h1>{{ page.title }}</h1>
+  
+  <div class="main-photo">
+    <a href="{{site.baseurl}}/photos/{{page.main}}">
+      <img src="{{site.baseurl}}/photos/{{page.main}}" alt="{{ page.title }}" />
+    </a>
+  </div>
 
-<p>
-  {{ page.content }}
-</p>
+  <div class="description">
+    {{ page.content }}
+  </div>
 
-<h2>Interesting shots</h2>
-{% for s in page.shots %}
-<a href="{{site.baseurl}}/photos/{{s}}">
-  <img src="{{site.baseurl}}/photos/{{s}}" height="120px" />
-</a>
-{% endfor %}
+  <h2>Interesting shots</h2>
+  <div class="shots-gallery">
+    {% for s in page.shots %}
+    <a href="{{site.baseurl}}/photos/{{s}}">
+      <img src="{{site.baseurl}}/photos/{{s}}" height="120px" alt="Shot by {{ page.title }}" />
+    </a>
+    {% endfor %}
+  </div>
 
-<h2>References</h2>
-<ul>
-{% for r in page.references %}
-  <li><a href="{{ r.url }}">{{ r.name }}</a>
-{% endfor %}
-</ul>
+  <h2>References</h2>
+  <div class="references">
+    <ul>
+    {% for r in page.references %}
+      <li><a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.name }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
