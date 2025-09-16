@@ -1,0 +1,12 @@
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Test files
+test-*.html
+
+# Temporary files
+*.tmp
+.DS_Store
