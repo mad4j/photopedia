@@ -1,7 +1,8 @@
-theme: jekyll-theme-architect
 repository: mad4j/photopedia
 title: Photopedia
 description: A collection of famous photographers
+url: ""
+baseurl: ""
 collections:
   photographers:
     output: true
@@ -11,5 +12,3 @@ defaults:
       type: photographers
     values:
       layout: photographer_layout.html
-plugins:
-  - jekyll-github-metadata

@@ -2,27 +2,34 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<p>
-  <a href="{{site.baseurl}}/photos/{{page.main}}">
-    <img src="{{site.baseurl}}/photos/{{page.main}}" />
-  </a>
-</p>
+<a href="{{ '/' | relative_url }}" class="nav-back">← Back to Gallery</a>
 
-<p>
-  {{ page.content }}
-</p>
+<div class="photographer-header">
+    <h1 class="photographer-title">{{ page.title }}</h1>
+</div>
 
-<h2>Interesting shots</h2>
-{% for s in page.shots %}
-<a href="{{site.baseurl}}/photos/{{s}}">
-  <img src="{{site.baseurl}}/photos/{{s}}" height="120px" />
-</a>
+<div class="photographer-main-image">
+    <a href="{{ '/photos/' | append: page.main | relative_url }}">
+        <img src="{{ '/photos/' | append: page.main | relative_url }}" alt="{{ page.title }}">
+    </a>
+</div>
+
+<div class="photographer-bio">
+    {{ content }}
+</div>
+
+<h2 class="section-title">Gallery</h2>
+<div class="photo-gallery">
+{% for shot in page.shots %}
+    <a href="{{ '/photos/' | append: shot | relative_url }}">
+        <img src="{{ '/photos/' | append: shot | relative_url }}" alt="{{ page.title }}">
+    </a>
 {% endfor %}
+</div>
 
-<h2>References</h2>
-<ul>
-{% for r in page.references %}
-  <li><a href="{{ r.url }}">{{ r.name }}</a>
+<h2 class="section-title">References</h2>
+<ul class="references-list">
+{% for ref in page.references %}
+    <li><a href="{{ ref.url }}" target="_blank" rel="noopener">{{ ref.name }}</a></li>
 {% endfor %}
 </ul>
